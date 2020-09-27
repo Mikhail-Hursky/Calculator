@@ -1,2 +1,2 @@
 # Mikhail Hursky
-# [calculator](https://Mikhail-Hursky.github.io/Calculator/index.html)
+# [calculator](https://Mikhail-Hursky.github.io/Calculator/index)
